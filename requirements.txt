@@ -3,3 +3,7 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+langchain-openai
+langchain-chroma
+python-dotenv
+chromadb
