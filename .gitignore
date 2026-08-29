@@ -16,3 +16,4 @@ __pycache__/
 
 # VS Code workspace
 *.code-workspace
+chroma_db_ollama/
